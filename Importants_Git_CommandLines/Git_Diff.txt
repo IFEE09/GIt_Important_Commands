@@ -1,0 +1,7 @@
+Use git diff shows you the specific changes with of same file, adding the commit identifier, 
+and the commit identifier you get it with git log <archive>.
+
+example: git diff 0812739812391298712309812 1082379812734127380412
+all identifiers need to be separated by a blank space
+
+#this is an example commit

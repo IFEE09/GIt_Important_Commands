@@ -1,0 +1,1 @@
+git show <file>, show all the specific changes a file did, this is a change like example

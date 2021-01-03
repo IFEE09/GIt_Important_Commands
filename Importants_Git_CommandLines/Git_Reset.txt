@@ -1,0 +1,1 @@
+git reset <identifier commit obtained with git log <file>> -hard or --soft 

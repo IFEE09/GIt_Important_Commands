@@ -1,0 +1,1 @@
+we need the command line 'git add .' to add to our local repository all the files we need to push later, and push is another topic.

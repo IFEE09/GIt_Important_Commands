@@ -1,0 +1,4 @@
+To initialize a repository from a local repository (from your computer), just need to install git with 
+sudo apt-get install git 
+after this, you need to be in the folder where you want initialize the git repository
+and in the terminal just put: 'git init'

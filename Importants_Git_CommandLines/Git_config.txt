@@ -1,0 +1,4 @@
+To configure our github important things we need:
+
+'git config --global user.name "Ivan Farid Espadas Escalante"'
+'git config --global user.email "ivanfaridespadas@gmail.com"'
