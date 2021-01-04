@@ -1,1 +1,3 @@
 To see all the changes of a file, just write in terminal : git log Git_config.txt (for example with one of my files)
+
+to see all the histroy of the proyect you can make use of: git log --all --graph --decorate --oneline
