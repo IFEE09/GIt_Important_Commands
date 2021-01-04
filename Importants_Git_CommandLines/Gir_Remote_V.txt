@@ -1,0 +1,4 @@
+git remote -v
+
+output: https://github.com/IFEE09/<Repositoriname>.git (push) send a file
+output: https://github.com/IFEE09/<Repositoriname>.git (fetch) ask for a file
